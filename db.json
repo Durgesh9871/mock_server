@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 1,
-      "name": "deb",
+      "username": "deb",
       "email": "deb@gmail.com",
-      "password":"123",
+      "pass":"123",
       "passRepeat":"123" 
     }
   ],
