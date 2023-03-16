@@ -68,6 +68,18 @@
     "cost": 200 ,
     "roomType": "ac"  ,
     "status":"Not Booked"
+  },
+
+  { 
+    "id":6 , 
+    "Category":"Deluxe",
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" , 
+    "bed": "Single" ,
+    "adults":2  ,
+    "capacity": 4 ,
+    "cost": 200 ,
+    "roomType": "ac"  ,
+    "status":"Not Booked"
   }
 
   ]
