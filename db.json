@@ -28,7 +28,7 @@
 		"year" : 2007,
 		"genre" : "Horror",
 		"IMDB_Rating" : 7.2,
-		"ticket" : 200
+		"ticket" : 300
 	},
   {
 		"id" : 3 ,
@@ -38,7 +38,7 @@
 		"year" : 2022,
 		"genre" : "Action",
 		"IMDB_Rating" : 6.8,
-		"ticket" : 200
+		"ticket" : 400
 	},
 	{
 		"id" : 4 ,
@@ -48,7 +48,7 @@
 		"year" : 2007,
 		"genre" : "Horror",
 		"IMDB_Rating" : 7.2,
-		"ticket" : 200
+		"ticket" : 500
 	},
   {
 		"id" : 5 ,
@@ -58,7 +58,7 @@
 		"year" : 2022,
 		"genre" : "Action",
 		"IMDB_Rating" : 6.8,
-		"ticket" : 200
+		"ticket" : 600
 	},
 	{
 		"id" : 6 ,
@@ -68,7 +68,7 @@
 		"year" : 2007,
 		"genre" : "Horror",
 		"IMDB_Rating" : 7.2,
-		"ticket" : 200
+		"ticket" : 800
 	}
 
   ]
