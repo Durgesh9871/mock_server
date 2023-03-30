@@ -6,8 +6,13 @@
       "email": "deb@gmail.com",
       "pass":"123"
     }
-  ]
+  ] ,
 
+  "userInformation":[
+   
+
+  ]
+  
  
 
 }
